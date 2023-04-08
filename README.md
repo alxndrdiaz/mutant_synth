@@ -19,7 +19,7 @@ instead of Arduino Nano.
 
 ### 3.1 Error: can't open device
 
-The full error message looks like this:
+This error might happen after trying to Upload and the full error message looks like this:
 
 ```
 "avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied"
